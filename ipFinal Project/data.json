@@ -1,0 +1,17 @@
+[
+    {
+        "user_query": "Locate regions where mangrove rehabilitation efforts are restoring\n          degraded habitats.",
+        "label": "Littoral/Swamp",
+        "map_link": "littoral_swamp"
+    },
+    {
+        "user_query": "Show me nearby areas with dormant land suitable for studying plant\n          life.",
+        "label": "Current Fallow",
+        "map_link": "current_fallow"
+    },
+    {
+        "user_query": "Give me area with water",
+        "label": "Waterbodies-Spread",
+        "map_link": "waterbodies"
+    }
+]
